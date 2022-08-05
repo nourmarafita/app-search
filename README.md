@@ -2,11 +2,11 @@
 
 # Description
 App search engines are providing information based on keywords entered by users. User can select type of search: All, Images, Videos, News. Using API from:
-[https://rapidapi.com/apigeek/api/google-search3/details]
+[https://rapidapi.com/apigeek/api/google-search3/details](https://rapidapi.com/apigeek/api/google-search3/details)
 
 
 Link Deploy : 
-[https://search-engine-nurma.web.app/]
+[https://search-engine-nurma.web.app/](https://search-engine-nurma.web.app/)
 
 
 ## Available Scripts
